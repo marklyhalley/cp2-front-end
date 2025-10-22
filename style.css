@@ -79,6 +79,16 @@
   margin: 0 auto;
 }
 
+.detalhes-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin
+  gap: 30px;
+  background-color: #DBDBDB; 
+  padding: 60px 0;
+  width: 100%;
+}
 
 #detalhes-container {
   display: flex;
